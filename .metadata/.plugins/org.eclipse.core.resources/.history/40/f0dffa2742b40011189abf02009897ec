@@ -1,0 +1,14 @@
+package org.cibertec.controlador;
+
+import java.io.Serializable;
+import java.util.List;
+
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.TypedQuery;
+
+import org.cibertec.model.Proveedor;
+import util.JPAUtil;
+public class ProductoJpaController {
+
+}

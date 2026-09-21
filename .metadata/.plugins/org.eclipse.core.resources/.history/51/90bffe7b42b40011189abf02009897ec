@@ -1,0 +1,7 @@
+package org.cibertec.controlador;
+
+
+
+public class ProductoJpaController implements Serializable{
+	
+}
